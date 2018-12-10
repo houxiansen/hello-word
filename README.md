@@ -1,4 +1,4 @@
-# six-task
+# six-task 我就是想改改
 
 > A Vue.js project
 
@@ -26,5 +26,5 @@ npm run e2e
 # run all tests
 npm test
 ```
-更改一下主分支
+更改一下主分支 再改一次
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
